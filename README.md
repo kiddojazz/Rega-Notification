@@ -1,6 +1,6 @@
 # Rega-Notification
 
-```python
+```json
 {
     "Title":"Resa Pipeline Modern Pipeline Run Fail",
     "Message":"The Full Migration Pipeline Failed",
